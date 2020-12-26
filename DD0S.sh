@@ -8,22 +8,15 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
- echo $e"┏━╮╭━┓ ╭━━━━━━╮"
-  echo $e"┃┏┗┛┓┃╭┫"echo$pur"RAIHAN"
- echo $e"╰┓▋▋┏╯╯╰━━━━━━╯"
-  echo $e"╭━┻╮╲┗━━━━╮╭╮"  
-   echo $e"┃▎▎┃╲╲╲╲╲╲┣━╯" 
-  echo $e"╰━┳┻▅╯╲╲╲╲┃"
-     echo $i"╰━┳┓┏┳┓┏╯" 
-       echo $me"┗┻┛┗┻┛"
-      echo $me"●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●"
-      echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"
-      echo $i"|       BY : Raihan / MR.404             |"
-      echo $ku"|Jangan Lupa Subsçribe Çhannel Aing yeee |"
-      echo $e"|           *MUHAMMAD RAIHAN*            |"
-      echo $i"|         INDONYMOUS CYBER TEAM          |"
-      echo $me"|<----------------------------------------------->|"
-sleep 1
+
+      echo $me"●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●"             echo $e"┏━╮╭━┓ ╭━━━━━━╮"    
+      echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"                         echo $e"┃┏┗┛┓┃╭┫"echo$pur"RAIHAN"                     
+      echo $i"|       BY : Raihan / MR.404             |"                      echo $e"╰┓▋▋┏╯╯╰━━━━━━╯"             
+      echo $ku"|Jangan Lupa Subsçribe Çhannel Aing yeee|"                       echo $e"╭━┻╮╲┗━━━━╮╭╮"
+      echo $e"|           *MUHAMMAD RAIHAN*            |"                        echo $e"┃▎▎┃╲╲╲╲╲╲┣━╯"  
+      echo $i"|         INDONYMOUS CYBER TEAM          |"                       echo $e"╰━┳┻▅╯╲╲╲╲┃"
+      echo $me"|<--------------------------------------------->|"                  echo $i"╰━┳┓┏┳┓┏╯"
+sleep 1                                                                              echo $me"┗┻┛┗┻┛"
 
 echo $i"1."$e"HAMMERING DDOS "
 echo $i"2."$me"Xerxes DDOS Tools"
