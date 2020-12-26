@@ -9,14 +9,14 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
 
-echo $me"|figlet MR.404|"
-echo $me"_________________________________________"
-echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"
-echo $e"|       BY : Raihan / MR.404             |"
-echo $e"|Jangan Lupa Subsçribe Çhannel Aing yeee |"
-echo $e"|           *MUHAMMAD RAIHAN*              |"
-echo $e"|         INDONYMOUS CYBER TEAM          |"
-echo $me"|<-------------------------------------->|"
+echo $pur" os.system ('figlet DDOS Mr.404')"
+      echo $me"_________________________________________"
+      echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"
+      echo $e"|       BY : Raihan / MR.404             |"
+      echo $e"|Jangan Lupa Subsçribe Çhannel Aing yeee |"
+      echo $e"|           *MUHAMMAD RAIHAN*            |"
+      echo $e"|         INDONYMOUS CYBER TEAM          |"
+      echo $me"|<-------------------------------------->|"
 sleep 1
 
 echo $i"1."$e"HAMMERING DDOS "
