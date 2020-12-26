@@ -12,7 +12,7 @@ ku='\033[33;1m' #kuning
       echo $me"●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●"
       echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"     
       echo $i"|       BY : Raihan / MR.404             |"  
-     echo $ku"|Jangan Lupa Subsçribe Çhannel Aing yeee|"
+     echo $ku"|Jangan Lupa Subsçribe Çhannel Aing yeee |"
       echo $e"|           *MUHAMMAD RAIHAN*            |"
       echo $i"|         INDONYMOUS CYBER TEAM          |"
       echo $me"|<--------------------------------------------->|" 
