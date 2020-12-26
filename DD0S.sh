@@ -9,7 +9,11 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
 
-echo $pur" os.system ('figlet DDOS Mr.404')"
+def main():
+    time.sleep(1)
+    os.system ('clear')
+    print '[96m'
+    os.system ('figlet DDOS MR.404')
       echo $me"_________________________________________"
       echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"
       echo $e"|       BY : Raihan / MR.404             |"
