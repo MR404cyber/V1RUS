@@ -9,14 +9,14 @@ pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 
 
-      echo $me"●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●"        ┏━╮╭━┓ ╭━━━━━━╮   
-      echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"                   ┃┏┗┛┓┃╭┫RAIHAN                    
-      echo $i"|       BY : Raihan / MR.404             |"                 ╰┓▋▋┏╯╯╰━━━━━━╯             
-      echo $ku"|Jangan Lupa Subsçribe Çhannel Aing yeee|"                 ╭━┻╮╲┗━━━━╮╭╮
-      echo $e"|           *MUHAMMAD RAIHAN*            |"                   ┃▎▎┃╲╲╲╲╲╲┣━╯
-      echo $i"|         INDONYMOUS CYBER TEAM          |"                 ╰━┳┻▅╯╲╲╲╲┃
-      echo $me"|<--------------------------------------------->|"            ╰━┳┓┏┳┓┏╯
-sleep 1                                                                         ┗┻┛┗┻┛
+      echo $me"●▬▬▬▬▬▬▬▬▬▬▬▬▬๑۩۩๑▬▬▬▬▬▬▬▬▬▬▬▬▬●"
+      echo $e"|WELCOME TO MY 9-DDOS ATTACKERS-PROGRAMS |"     
+      echo $i"|       BY : Raihan / MR.404             |"  
+     echo $ku"|Jangan Lupa Subsçribe Çhannel Aing yeee|"
+      echo $e"|           *MUHAMMAD RAIHAN*            |"
+      echo $i"|         INDONYMOUS CYBER TEAM          |"
+      echo $me"|<--------------------------------------------->|" 
+sleep 1                                                   
 
 echo $i"1."$e"HAMMERING DDOS "
 echo $i"2."$me"Xerxes DDOS Tools"
