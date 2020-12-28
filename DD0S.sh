@@ -20,7 +20,7 @@ sleep 1
 
 echo $i"1."$e"HAMMERING DDOS "
 echo $i"2."$me"Xerxes DDOS Tools"
-echo $i"3."$ku"LITE DDoS (Trojan) "
+echo $i"3."$ku"DDoS (Trojan) "
 echo $i"4."$me"TOR's Hammer DDOS "
 echo $i"5."$me"HUNNER DDOS(SADEES)"
 echo $i"6."$me"Golden EYES DDoS (SADEES)"
@@ -53,9 +53,9 @@ fi
 if [ $pil = 3 ]
 then
 clear
-git clone https://github.com/4L13199/LITEDDOS
-cd LITEDDOS
-python2 liteDDOS.py
+git clone https://github.com/MR404cyber/DDOS
+cd DDOS
+python2 ddos.py
 fi
 
 if [ $pil = 4 ]
