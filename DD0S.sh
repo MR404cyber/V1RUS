@@ -25,7 +25,7 @@ echo $i"4."$me"TOR's Hammer DDOS "
 echo $i"5."$me"HUNNER DDOS(SADEES)"
 echo $i"6."$me"Golden EYES DDoS (SADEES)"
 echo $i"7."$me"HULK Smash!!"
-echo $i"8."$me"IP-ATTACKS"
+echo $i"8."$me"ip-hack"
 echo $i"9."$me"LOIC (GANAAAASS)"
 echo $i"10."$me"ARMAGEDDON DDOS"
 echo $i"11."$i"KELUAR PROGRAM"
@@ -94,9 +94,9 @@ fi
 if [ $pil = 8 ]
 then
 clear
-git clone https://github.com/Bhai4You/Ip-Attack
-cd Ip-Attack
-python ip-attack.py
+git clone https://github.com/MR404cyber/ip-hack
+cd ip-hack
+python2 Ip-hack
 fi
 
 if [ $pil = 9 ]
@@ -126,5 +126,5 @@ sleep 2
 echo $cy"Kalau Ada error silahkan hubungi saya di WA"
 sleep 2
 echo $i"Youtube : MR.404 "
-echo $i"Whatsapp : +62 823 331 072 836 "
+echo $i"Whatsapp : +6282331072836 "
 fi
