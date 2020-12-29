@@ -8,6 +8,8 @@ me='\033[31;1m' #merah
 pu='\033[37;1m' #putih
 ku='\033[33;1m' #kuning
 bi='\033[34;1m' #biru
+ku='\033[33;1m' #kuning
+bi='\033[34;1m' #biru
 i='\033[32;1m' #ijo
 pur='\033[35;1m' #purple
 cy='\033[36;1m' #cyan
@@ -23,19 +25,25 @@ C='\x1b[1;36m'
 D='\x1b[0m'
 endc='\E[0m'
 enda='\033[0m'
+clear
 figlet -f pagga "Login Dulu" |lolcat -a -d 5
-echo $me"╔══════════╗"
-read -p "║ Username :" lu
-echo $pu"║"
-read -p "║ Password :" tod
-echo $pu"╚══════════╝"
 
-if [ $lu = "MR.404" ]|[ $tod = "HACKER" ]
+echo $me"╔══════════╗"
+echo $ku"║ Password :"
+echo $pu"╚══════════╝"
+read pwd;
+
+if [ $pwd = "MR.404" ]
 then
-echo $cy"Login Sukses"
-echo $me"chat auothor dulu!!!"
+   echo "\033[1;32mPasswordnya Bener Bhujank:v"
+sleep 2
+else
+   echo "\033[1;31mPasswordnya Salah bego!"
+   echo "\033[1;31mCoba Chat Mr.404"
 sleep 3
-xdg-open 'https://wa.me/6282331072836/?text=Assalamualaikum+Apa+kabar+MR.404'
+xdg-open 'https://wa.me/6282331072836/?text=Assalamualaikum+Apa+passnya+MR.404'
+   echo "\033[1;35m"
+exit
 fi
 
 
